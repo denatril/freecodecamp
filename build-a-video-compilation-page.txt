@@ -1,0 +1,52 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>3 Ways to Cook an Omelette</h1>
+            <p>Learn tricks of different omelette recipies</p>
+            <section>
+                <h2>POACHED EGGS</h2>
+                <p>Poached eggs are gently cooked out of their shells in simmering water without any additional fat.</p>
+                <iframe
+                 width="400"
+                 height="250"
+                 src="https://www.youtube.com/watch?v=0sl3eMAXspE"
+                 title="Poached Eggs"  
+                ></iframe>
+            </section>
+            <section>
+                <h2>SCRAMBLED EGGS</h2>
+                <p>Scrambled eggs. To make scrambled eggs, crack eggs into a bowl and season with salt. Whisk to combine.</p>
+                <iframe
+                 width="400"
+                 height="250"
+                 src="https://www.youtube.com/watch?v=yyi55ZrpJ0E"
+                 title="Scrambled Eggs"
+                ></iframe>
+            </section>
+            <section>
+                <h2>OMELETTE</h2>
+                <p>An omelette is a dish made from eggs, fried with butter or oil in a frying pan.</p>
+                <iframe
+                 width="400"
+                 height="250"
+                 src="https://www.youtube.com/watch?v=ixpYIgHlU60"
+                 title="Scrambled Eggs"
+                ></iframe>
+    </main>
+            </secton>
+            </section>
+</body>
+
+</html>
+
+** end of index.html **
+

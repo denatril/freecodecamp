@@ -1,0 +1,52 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+      <title>Travel Agency Page</title>
+<meta
+   name="description"
+   content="Explore new destinations with us"/>  
+</head>
+<body>
+  <h1>Discover Turkey</h1>
+  <p>Art, folklore, food, nature, and more. Choose among our wide selection of guided tours and excursions, and live an unforgettable experience exploring Turkey.</p>
+  <h2>Packages</h2>
+  <p>We offer an extensive range of holiday solutions to accommodate the needs of all our clients. From daily excursions in the most beautiful cities, to thorough tours of hidden villages and medieval towns to discover Italy's lesser-known sides.</p>
+  <ul>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+ <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+  </ul>
+  
+  <h2>Top Itineraries</h2>
+  
+
+   <figure>
+     <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="collosseo in rome" href="https://www.freecodecamp.org/learn" target="_blank"></img>
+      </a>
+<figcaption>Visiting the colloseum in rome></figcaption>
+   </figure>
+   
+   <figure>
+     <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="the alps" href="https://www.freecodecamp.org/learn" target="_blank"></img>
+      </a>
+<figcaption>Hiking in the Swiss alps</figcaption>
+   </figure>
+   
+    
+   <figure>
+     <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="the sea" href="https://www.freecodecamp.org/learn" target="_blank"></img>
+      </a>
+<figcaption>Sailing to remote surfing spots</figcaption>
+   </figure>
+   
+</ol>
+</body>
+</html>
+
+** end of index.html **
+

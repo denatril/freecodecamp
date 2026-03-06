@@ -1,0 +1,82 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Event Hub</title>
+</head>
+<body>
+
+  <header>
+    <h1>Event Hub</h1>
+    <nav>
+      <ul>
+        <li><a href="#upcoming-events">Upcoming Events</a></li>
+        <li><a href="#past-events">Past Events</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- Upcoming Events Section -->
+    <section id="upcoming-events">
+      <h2>Upcoming Events</h2>
+
+      <article>
+        <h3>Tech Innovators Meetup 2026</h3>
+        <p>
+          Join industry leaders and developers for an evening of networking,
+          live demos, and future-focused discussions on emerging technologies.
+          <br><strong>Date:</strong> March 15, 2026
+        </p>
+      </article>
+
+      <article>
+        <h3>Creative Design Workshop</h3>
+        <p>
+          A hands-on workshop exploring modern design principles,
+          branding strategies, and digital creativity techniques.
+          <br><strong>Date:</strong> April 8, 2026
+        </p>
+      </article>
+    </section>
+
+    <!-- Past Events Section -->
+    <section id="past-events">
+      <h2>Past Events</h2>
+
+      <article>
+        <h3>Startup Pitch Night</h3>
+        <p>
+          Entrepreneurs presented innovative ideas to investors
+          in a high-energy pitch competition.
+          <br><strong>Date:</strong> November 12, 2025
+        </p>
+        <img 
+          src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" 
+          alt="Audience watching a startup pitch presentation">
+      </article>
+
+      <article>
+        <h3>Annual Community Hackathon</h3>
+        <p>
+          Developers collaborated in teams to build impactful
+          solutions within 48 hours.
+          <br><strong>Date:</strong> September 3, 2025
+        </p>
+        <img 
+          src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg" 
+          alt="Team collaborating during a hackathon event">
+      </article>
+
+    </section>
+
+  </main>
+
+</body>
+</html>
+
+** end of index.html **
+
