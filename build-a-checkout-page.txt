@@ -1,0 +1,53 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Checkout Page</title>
+</head>
+
+<body>
+    <h1>Checkout</h1>
+    <section>
+        <h2>Your Cart</h2>
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/cube.jpg" alt="cube">
+    </section>
+    <section>
+        <h2>Payment Information</h2>
+<form>
+                <div class="form-group">
+                    <label for="card-name">
+                        Cardholder Name
+                        <span aria-hidden="true">*</span>
+                    </label>
+                    <input 
+                        type="text" 
+                        id="card-name" 
+                        name="card-name"
+                        required
+                    >
+                </div>
+                  <div class="form-group">
+                    <label for="card-number">
+                        Card Number
+                        <span aria-hidden="true">*</span>
+                    </label>
+                     <input 
+                        type="text" 
+                        id="card-number" 
+                        name="card-number"
+                        required
+                        aria-describedby="card-number-help"
+                    >
+                    <p id="card-number-help">
+                        Please enter a 16-digit card number (format: XXXX XXXX XXXX XXXX)
+                    </p>
+    </section>
+</body>
+
+</html>
+
+** end of index.html **
+
